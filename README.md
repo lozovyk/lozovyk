@@ -10,7 +10,7 @@
 
 
 
-Hi there, I’m a **Frontend Developer** from **Ukraine**, I specialize in infinite learning, JS, CSS and HTML. In addition, I work with CSS preprocessors like SASS.
+Hi there, I’m a **Frontend Developer** from **Ukraine**, I specialize in infinite learning. In addition, I work with CSS preprocessors like SASS.
 I am aiming to become a full-stack developer in the near future.
 
 - 🌱 I’m currently learning React
