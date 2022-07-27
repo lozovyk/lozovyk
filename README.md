@@ -17,7 +17,6 @@ I am aiming to become a full-stack developer in the near future.
 - 🤔 I’m looking for help with React, Redux/Mobx, TypeScript
 - 💬 Ask me about ur gulp / webpack boiler
 - 📫 How to reach me: i.lozovyk@gmail.com
-- ⚡ Fun fact: **no fun facts... I'm very serious**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lozovyk&layout=compact)
 
